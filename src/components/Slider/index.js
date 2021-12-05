@@ -9,7 +9,7 @@ import 'swiper/swiper-bundle.css';
 
 SwiperCore.use(Pagination)
 
-function Slider(){
+function Slider() {
     const { filteredPlaces, setFilteredPlaces } = useContext(FilterContext);
     const [places, setPlaces] = useState([]);
 
