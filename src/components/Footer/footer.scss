@@ -1,0 +1,64 @@
+@import '../../styles/responsive';
+
+.footer {
+    width: 100%;
+
+    &__container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    &__section {
+        padding: 4rem;
+
+        a {
+            color: #0070C1;
+            &:hover {
+                color: var(--blue);
+            }
+        }
+
+        &--first{
+            background-color: var(--lightGreen);
+            color: var(--black);
+            font-size: 1.5rem;
+        }
+        
+        &--second{
+            background-color: var(--green);
+            color: var(--white);
+            font-size: 1.8rem;
+            small {
+                font-weight: 400;
+                display: block;
+                width: 100%;
+            }
+        }
+    }
+    
+    .button {
+        background-color: #DAE8FC;
+        border-radius: .5rem;
+        box-shadow: 1px 1px 4px rgba(0, 0, 0, .2);
+        padding: 1.5rem;
+        align-self: flex-end;
+    }
+
+    @media (max-width: $mobileLarge) {
+        p {
+            font-size: 1.5rem;
+        }
+        &__section {
+            padding: 2rem;
+
+            &--second,
+            &--first{
+                line-height: 2.2rem;
+            }
+            &--second{
+                text-align: center;
+            }
+        }
+    }
+}
