@@ -1,119 +1,129 @@
 {
-    "places": [
-        {
-            "id": 1,
-            "name": "Agulha Guarischi",
-            "description": "A Agulha Guarischi fica encravada no meio da Enseada do Bananal, espremida entre o Morro do Telegrafo, Alto Mourão e o mar. Ela possui um dos cumes mais espetaculares do estado Rio de Janeiro, onde é possível ficar com uma perna em cada face da montanha, como se estivesse montado em um cavalo. O Paredão Zezão é a via mais procurada, ela possui cerca de quatro enfiadas, com uma dificuldade média em torno do terceiro grau e um crux delicado quinto no início da primeira enfiada. Para acessar o cume é preciso emendar com o Paredão Eldorado, em mais duas enfiadas de terceiro grau. Passando pelo crux inicial, o restante é praticamente um passeio, onde predomina a escalada em agarra e aderência, com seu cume cinematográfico. Vale ressaltar que o rapel é feito pela própria via, o que demanda certa paciência, já que a via é relativamente longa e positiva.",
-            "website": "https://www.escaladasclassicas.com/escalada-agulha-guaricshi-niteroi",
-            "location": {
-                "lat": "-22.973058",
-                "long": "-43.022061"
-            },
-            "facilities": 
-                [
-                    {"item": 1, "status": true},
-                    {"item": 2, "status": true},
-                    {"item": 3, "status": true},
-                    {"item": 4, "status": true},
-                    {"item": 5, "status": true},
-                    {"item": 6, "status": true},
-                    {"item": 7, "status": true},
-                    {"item": 8, "status": true},
-                    {"item": 9, "status": true},
-                    {"item": 10, "status": true}
-                ]
-        },
-        {
-            "id": 2,
-            "name": "Oswaldo Pereira",
-            "description": "A Oswaldo Pereira é a via de escalada mais acessível do Alto Mourão, já que é muito bem protegida e possui um grau de dificuldade intermediário, sendo uma excelente primeira opção para conhecer essa montanha. A via possui 10 enfiadas, e seu início é bem fácil, o que permite escalar em simultâneo para economizar tempo. A segunda parte da via segue sempre na casa do quarto grau, mantendo o mesmo padrão de proteção no estilo E1, mas já no final da via fica o crux cotado em sexto grau. Caso seja necessário, o crux pode ser feito em artificial sem maiores dificuldades. O rapel pode ser feito de qualquer ponto da via, mas a melhor opção é descer pela trilha que começa no cume e termina na serrinha entre Itacoatiara e Itaipuaçu. Essa trilha de descida é simples e dura aproximadamente quarenta e cinco minutos, mas se o carro estiver estacionado próximo da entrada do parque, reserve mais uns trinta minutos de caminhada.",
-            "website": "https://www.escaladasclassicas.com/escalada-oswaldo-pereira-alto-mourao",
-            "location": {
-                "lat": "-22.974923",
-                "long": "-43.021185"
-            },
-            "facilities": 
-                [
-                    {"item": 1, "status": true},
-                    {"item": 2, "status": true},
-                    {"item": 3, "status": true},
-                    {"item": 4, "status": true},
-                    {"item": 5, "status": true},
-                    {"item": 6, "status": true},
-                    {"item": 7, "status": true},
-                    {"item": 8, "status": true},
-                    {"item": 9, "status": true},
-                    {"item": 10, "status": true}
-                ]
-        },
-        {
-            "id": 3,
-            "name": "Stop",
-            "description": "A Stop é outra via super clássica do Rio de Janeiro, uma conquista de 1944, mas até hoje pode ser considerada um desafio aos escaladores. Apesar de tecnicamente fácil, sempre na casa do terceiro ou quarto grau de dificuldade, a Stop é uma via relativamente longa e exposta, logo é preciso estar com o preparo físico e o psicológico em dia. Ela fica localizada na face sul do Pão de Açúcar, mais especificamente no Totem, sendo uma ótima opção para quem busca fugir do sol. Em caso de chuva, a Stop pode demorar um pouco para secar, principalmente no durante o inverno, quando fica abrigada do sol praticamente o dia todo",
-            "website": "https://www.escaladasclassicas.com/escalada-chamine-stop-pao-de-acucar-urca",
-            "location": {
-                "lat": "-22.950997",
-                "long": "-43.156484"
-            },
-            "facilities": 
-                [
-                    {"item": 1, "status": true},
-                    {"item": 2, "status": true},
-                    {"item": 3, "status": true},
-                    {"item": 4, "status": true},
-                    {"item": 5, "status": true},
-                    {"item": 6, "status": true},
-                    {"item": 7, "status": true},
-                    {"item": 8, "status": true},
-                    {"item": 9, "status": true},
-                    {"item": 10, "status": true}
-                ]
-        },
-        {
-            "id": 4,
-            "name": "Italianos",
-            "description": "Talvez a via de escalada mais conhecida e frequentada do Brasil, são aproximadamente 100 metros de escalada pela impressionante aresta oeste do Pão de Açúcar. Para fazer cume, após os 100 metros da Italianos, basta seguir por duas travessias em diagonal para a esquerda e na sequencia pegar as últimas enfiadas da Secundo Costa Neto, o que vai adicionar mais 150 metros, totalizando aproximadamente 250 metros de escalada.",
-            "website": "https://www.escaladasclassicas.com/escalada-italianos-pao-de-acucar-urca",
-            "location": {
-                "lat": "-22.949687",
-                "long": "-43.157696"
-            },
-            "facilities": 
-                [
-                    {"item": 1, "status": true},
-                    {"item": 2, "status": true},
-                    {"item": 3, "status": true},
-                    {"item": 4, "status": true},
-                    {"item": 5, "status": true},
-                    {"item": 6, "status": true},
-                    {"item": 7, "status": true},
-                    {"item": 8, "status": true},
-                    {"item": 9, "status": true},
-                    {"item": 10, "status": true}
-                ]
-        },
-        {
-            "id": 5,
-            "name": "K2",
-            "description": "Clássicas das clássicas do Rio de Janeiro, localizada no Corcovado, onde é preciso escalar em diversos estilos como fendas, diedros, aderência e agarras. Para acessar a base é preciso ir até as Paineiras e seguir pela estrada que dá acesso ao Cristo. A entrada da sua trilha fica em uma curva em cotovelo para a direta, sempre seguindo a parede norte do Corcovado até o final da trilha, que fica no ombro e de frente para a Lagoa Rodrigo de Freitas.",
-            "website": "https://www.escaladasclassicas.com/escalada-k2-corcovado-rio-de-janeiro",
-            "location": {
-                "lat": "-22.951831",
-                "long": "-43.207803"
-            },
-            "facilities": 
-                [
-                    {"item": 1, "status": true},
-                    {"item": 2, "status": true},
-                    {"item": 3, "status": true},
-                    {"item": 4, "status": true},
-                    {"item": 5, "status": true},
-                    {"item": 6, "status": true},
-                    {"item": 7, "status": true},
-                    {"item": 8, "status": true},
-                    {"item": 9, "status": true},
-                    {"item": 10, "status": true}
-                ]
-        }
-    ]
+  "places": [
+    {
+      "id": 1,
+      "name": "Agulha Guarischi",
+      "category": "Paredes",
+      "image": "/places/agulha-guarischi.webp",
+      "description": "A Agulha Guarischi fica encravada no meio da Enseada do Bananal, espremida entre o Morro do Telegrafo, Alto Mourão e o mar.",
+      "long-description": "Ela possui um dos cumes mais espetaculares do estado Rio de Janeiro, onde é possível ficar com uma perna em cada face da montanha, como se estivesse montado em um cavalo. O Paredão Zezão é a via mais procurada, ela possui cerca de quatro enfiadas, com uma dificuldade média em torno do terceiro grau e um crux delicado quinto no início da primeira enfiada. Para acessar o cume é preciso emendar com o Paredão Eldorado, em mais duas enfiadas de terceiro grau. Passando pelo crux inicial, o restante é praticamente um passeio, onde predomina a escalada em agarra e aderência, com seu cume cinematográfico. Vale ressaltar que o rapel é feito pela própria via, o que demanda certa paciência, já que a via é relativamente longa e positiva.",
+      "website": "https://www.escaladasclassicas.com/escalada-agulha-guaricshi-niteroi",
+      "location": {
+        "lat": "-22.973058",
+        "long": "-43.022061"
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": true },
+        { "item": 3, "status": true },
+        { "item": 4, "status": true },
+        { "item": 5, "status": true },
+        { "item": 6, "status": true },
+        { "item": 7, "status": true },
+        { "item": 8, "status": true },
+        { "item": 9, "status": true },
+        { "item": 10, "status": true }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Oswaldo Pereira",
+      "category": "Paredes",
+      "image": "/places/oswaldo-pereira.webp",
+      "description": "A Oswaldo Pereira é a via de escalada mais acessível do Alto Mourão, já que é muito bem protegida e possui um grau de dificuldade intermediário, sendo uma excelente primeira opção para conhecer essa montanha. ",
+      "long-description": "A via possui 10 enfiadas, e seu início é bem fácil, o que permite escalar em simultâneo para economizar tempo. A segunda parte da via segue sempre na casa do quarto grau, mantendo o mesmo padrão de proteção no estilo E1, mas já no final da via fica o crux cotado em sexto grau. Caso seja necessário, o crux pode ser feito em artificial sem maiores dificuldades. O rapel pode ser feito de qualquer ponto da via, mas a melhor opção é descer pela trilha que começa no cume e termina na serrinha entre Itacoatiara e Itaipuaçu. Essa trilha de descida é simples e dura aproximadamente quarenta e cinco minutos, mas se o carro estiver estacionado próximo da entrada do parque, reserve mais uns trinta minutos de caminhada.",
+      "website": "https://www.escaladasclassicas.com/escalada-oswaldo-pereira-alto-mourao",
+      "location": {
+        "lat": "-22.974923",
+        "long": "-43.021185"
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": true },
+        { "item": 3, "status": true },
+        { "item": 4, "status": true },
+        { "item": 5, "status": true },
+        { "item": 6, "status": true },
+        { "item": 7, "status": true },
+        { "item": 8, "status": true },
+        { "item": 9, "status": true },
+        { "item": 10, "status": true }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Stop",
+      "category": "Tradicionais",
+      "image": "/places/chamine-stop.webp",
+      "description": "A Stop é outra via super clássica do Rio de Janeiro, uma conquista de 1944, mas até hoje pode ser considerada um desafio aos escaladores. ",
+      "long-description": "Apesar de tecnicamente fácil, sempre na casa do terceiro ou quarto grau de dificuldade, a Stop é uma via relativamente longa e exposta, logo é preciso estar com o preparo físico e o psicológico em dia. Ela fica localizada na face sul do Pão de Açúcar, mais especificamente no Totem, sendo uma ótima opção para quem busca fugir do sol. Em caso de chuva, a Stop pode demorar um pouco para secar, principalmente no durante o inverno, quando fica abrigada do sol praticamente o dia todo.",
+      "website": "https://www.escaladasclassicas.com/escalada-chamine-stop-pao-de-acucar-urca",
+      "location": {
+        "lat": "-22.950997",
+        "long": "-43.156484"
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": true },
+        { "item": 3, "status": true },
+        { "item": 4, "status": true },
+        { "item": 5, "status": true },
+        { "item": 6, "status": true },
+        { "item": 7, "status": true },
+        { "item": 8, "status": true },
+        { "item": 9, "status": true },
+        { "item": 10, "status": true }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Italianos",
+      "category": "Paredes",
+      "image": "/places/italianos.webp",
+      "description": "Talvez a via de escalada mais conhecida e frequentada do Brasil, são aproximadamente 100 metros de escalada pela impressionante aresta oeste do Pão de Açúcar. ",
+      "long-description": "Para fazer cume, após os 100 metros da Italianos, basta seguir por duas travessias em diagonal para a esquerda e na sequencia pegar as últimas enfiadas da Secundo Costa Neto, o que vai adicionar mais 150 metros, totalizando aproximadamente 250 metros de escalada.",
+      "website": "https://www.escaladasclassicas.com/escalada-italianos-pao-de-acucar-urca",
+      "location": {
+        "lat": "-22.949687",
+        "long": "-43.157696"
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": true },
+        { "item": 3, "status": true },
+        { "item": 4, "status": true },
+        { "item": 5, "status": true },
+        { "item": 6, "status": true },
+        { "item": 7, "status": true },
+        { "item": 8, "status": true },
+        { "item": 9, "status": true },
+        { "item": 10, "status": true }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "K2",
+      "category": "Tradicionais",
+      "image": "/places/k2.webp",
+      "description": "Clássicas das clássicas do Rio de Janeiro, localizada no Corcovado, onde é preciso escalar em diversos estilos como fendas, diedros, aderência e agarras. ",
+      "long-description": "Para acessar a base é preciso ir até as Paineiras e seguir pela estrada que dá acesso ao Cristo. A entrada da sua trilha fica em uma curva em cotovelo para a direta, sempre seguindo a parede norte do Corcovado até o final da trilha, que fica no ombro e de frente para a Lagoa Rodrigo de Freitas.",
+      "website": "https://www.escaladasclassicas.com/escalada-k2-corcovado-rio-de-janeiro",
+      "location": {
+        "lat": "-22.951831",
+        "long": "-43.207803"
+      },
+      "facilities": [
+        { "item": 1, "status": true },
+        { "item": 2, "status": true },
+        { "item": 3, "status": true },
+        { "item": 4, "status": true },
+        { "item": 5, "status": true },
+        { "item": 6, "status": true },
+        { "item": 7, "status": true },
+        { "item": 8, "status": true },
+        { "item": 9, "status": true },
+        { "item": 10, "status": true }
+      ]
+    }
+  ]
 }

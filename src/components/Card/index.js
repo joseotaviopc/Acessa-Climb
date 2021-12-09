@@ -14,9 +14,14 @@ import iconRampa from "../../images/icon-rampa.png";
 
 
 const Card = ({item}) => {
+  
+  const imagePath = require('../../images' + item.image);
+  
   return (
     <section className="card__container">
-      <div className="card__image"></div>
+      <div className="card__image">
+        <img src={imagePath.default} alt={item.name} title={item.name} />
+      </div>
       <div className="card__content">
         <h3>{item.name}</h3>
         <ul className="card__facilities">
@@ -89,7 +94,9 @@ const Card = ({item}) => {
           </li>
         </ul>
         <p>{item.description}</p>
-        <Button>Como chegar</Button>
+        <Button>
+          <a href={item.website} target="_blank" rel="noreferrer">Mais infos</a>
+        </Button>
       </div>
     </section>
   );

@@ -10,20 +10,23 @@ import 'swiper/swiper-bundle.css';
 SwiperCore.use(Pagination)
 
 function Slider() {
-    const { filteredPlaces, setFilteredPlaces } = useContext(FilterContext);
+    const { filteredPlace } = useContext(FilterContext);
     const [places, setPlaces] = useState([]);
 
     useEffect(() => {
         const fetchPlaces = async () => {
-            const result = await api.get(`/places?category=${filteredPlaces}`);
+            const result = await api.get(`https://api.jsonbin.io/b/61b2630301558c731cd150c6${filteredPlace ? '?category='+filteredPlace : ''}`);
+            // const result = await api.get(`/places?category=${filteredPlace}`);
+
+            console.log("=== RESULTADO ===",result);
 
             if(result.status === 200) {
-                setPlaces(result.data);
+                setPlaces(result.data.places);
             }
         }
 
         fetchPlaces()
-    }, [filteredPlaces])
+    }, [filteredPlace])
 
     return(
         <Swiper 
